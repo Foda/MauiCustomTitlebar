@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is a sample of how to customize the titlebar in a .NET MAUI app for Windows. This example shows how to customize the titlebar by creating a custom titlebar content view that is displayed in the titlebar area (`TitlebarContent.xaml`).
+This is a sample of how to customize the titlebar in a .NET MAUI 8.x app for Windows. This example shows how to customize the titlebar by creating a custom titlebar content view that is displayed in the titlebar area (`TitlebarContent.xaml`).
 
 The example titlebar control contains a title label, a search-box, and a avatar button. The titlebar is databound to a singleton instance of the `TitlebarViewModel`, and input to the search-box is shown on the main page.
 
