@@ -1,5 +1,7 @@
 # TitlebarSample
 
+![image](https://github.com/Foda/MauiCustomTitlebar/assets/890772/c80e6a39-ec57-47d1-879e-ac233c139256)
+
 ## Overview
 
 This is a sample of how to customize the titlebar in a .NET MAUI app for Windows. This example shows how to customize the titlebar by creating a custom titlebar content view that is displayed in the titlebar area (`TitlebarContent.xaml`).
